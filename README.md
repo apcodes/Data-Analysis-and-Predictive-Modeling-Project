@@ -1,1 +1,2 @@
 # Data-Analysis-and-Predictive-Modeling-Project
+: This repository showcases my data analysis and predictive modeling work inspired from my classes. Explore insightful data visualizations, preprocessing techniques, statistical analysis, and predictive modeling using Python and relevant libraries. Gain insights into how I leverage data to extract meaningful patterns and build predictive models for informed decision-making.
